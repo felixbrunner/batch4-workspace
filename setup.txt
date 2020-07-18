@@ -1,0 +1,25 @@
+#1
+cd ~/projects/batch4-students/
+git pull
+
+#2
+#cp -r ~/projects/batch4-students/"Week XXX" ~/projects/batch4-workspace
+
+#3
+python3 -m venv ~/.virtualenvs/SLUXXX
+
+#4
+source ~/.virtualenvs/slu00/bin/activate
+
+#5
+pip install -U pip
+pip install -r ~/projects/batch4-workspace/"Week XXX"/"SLUXXX"/requirements.txt
+
+#6
+cd ~/projects/batch4-workspace
+
+#7
+jupyter notebook
+
+##
+deactivate
