@@ -6,14 +6,14 @@ git pull
 #cp -r ~/projects/batch4-students/"Week XXX" ~/projects/batch4-workspace
 
 #3
-python3 -m venv ~/.virtualenvs/SLUXXX
+python3 -m venv ~/.virtualenvs/sluXXX
 
 #4
 source ~/.virtualenvs/slu00/bin/activate
 
 #5
 pip install -U pip
-pip install -r ~/projects/batch4-workspace/"Week XXX"/"SLUXXX"/requirements.txt
+pip install -r ~/projects/batch4-workspace/"Week 1"/"SLUXXX"/requirements.txt
 
 #6
 cd ~/projects/batch4-workspace
@@ -23,3 +23,9 @@ jupyter notebook
 
 ##
 deactivate
+
+#10
+cd ~/projects/batch4-workspace
+git add .
+git commit -m "XXX"
+git push
