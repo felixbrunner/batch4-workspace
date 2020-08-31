@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+sklearn
+matplotlib
+requests
+psycopg2-binary
+sqlalchemy
+bs4
