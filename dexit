@@ -1,0 +1,221 @@
+[33mcommit 25c2959f45ca5dc4e25aeb9d6b25915e7fafad73[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Tue Dec 8 21:37:42 2020 +0000
+
+    add Week 6 contents
+
+[33mcommit 134e1482320747ca99d7d578b87bce133a239042[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Thu Nov 19 15:23:45 2020 +0000
+
+    try BLU12
+
+[33mcommit d136fabf5b459f1309eed70ba4f0406cd93ea714[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Nov 8 20:45:30 2020 +0000
+
+    solve BLU11
+
+[33mcommit 47bc55cfe8efbc6f01d7e3c0f006a9ee56950b3e[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Nov 8 13:42:46 2020 +0000
+
+    solve BLU10
+
+[33mcommit eeeb6bcee028887a8178282c581724fd342b8c87[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Mon Oct 19 11:56:27 2020 +0100
+
+    solve BLU09
+
+[33mcommit df3fb1767cda89454046399ce0511f71037e813b[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Oct 18 16:31:31 2020 +0100
+
+    work on BLU09
+
+[33mcommit 7e1fd6635f09bbfb731a6a240e06bcafdff76757[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Oct 18 12:13:02 2020 +0100
+
+    solve BLU08
+
+[33mcommit 954382e883975e55b84d7530aacfa941b9f5519f[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Oct 11 20:33:18 2020 +0100
+
+    solve BLU07
+
+[33mcommit 480864003d3c77cd469872284d4347ff39672850[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sun Sep 20 23:20:22 2020 +0100
+
+    solve BLU06
+
+[33mcommit 16b7d55b9abe4928a2b403b8688838cc8496c70a[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Thu Sep 17 19:01:37 2020 +0100
+
+    fix BLU05
+
+[33mcommit 502006a71ffb867a00f2c4e5072833d528841650[m
+Author: felixbrunner <rubelrennfix@gmail.com>
+Date:   Sat Sep 12 19:07:40 2020 +0100
+
+    solve BLU05
+
+[33mcommit 71bf4f89f372dcd165d770e0ab4f339903e568a9[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Mon Aug 31 20:23:09 2020 +0100
+
+    solve SLU04
+
+[33mcommit fbab6c19fb3f82bf86514b5540f5fd3c688d2438[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Thu Aug 27 15:33:23 2020 +0100
+
+    solve BLU03 updated version
+
+[33mcommit 27645974276199545d39ef05143fdfdf2ff514f3[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Aug 23 18:16:45 2020 +0100
+
+    solve BLU03
+
+[33mcommit 0d688b11e80803c6eef25b4c92447bd3b54c9d27[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Fri Aug 21 10:23:38 2020 +0100
+
+    solve blu02
+
+[33mcommit 5bc0cd653c607e4611445e393735a6135ab06480[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Tue Aug 4 17:31:27 2020 +0100
+
+    solve BLU01
+
+[33mcommit 3b4a67c752a7266b41c554718a5c0b8f7b96cd50[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Fri Jul 24 21:32:14 2020 +0100
+
+    solve SLU19
+
+[33mcommit f2841c6c97ea0a13768d23d6b01694849fb60e25[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Fri Jul 24 19:59:59 2020 +0100
+
+    update SLU18 version
+
+[33mcommit b28d5531d985d16e3996a71057ffcdb677d25b45[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Fri Jul 24 19:49:26 2020 +0100
+
+    solve SLU18
+
+[33mcommit 5888e1dbaea6a52e9a2880f0e147aed22ae29f5c[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Thu Jul 23 12:29:11 2020 +0100
+
+    solve SLU17
+
+[33mcommit c1b3a635ba4cf8624a0b4b86262f0da9cafc7ec8[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Thu Jul 23 10:03:44 2020 +0100
+
+    solve SLU16
+
+[33mcommit 33e09062ea18eb8def4870ba5c073991572a9cb6[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Wed Jul 22 19:35:21 2020 +0100
+
+    fix bug in SLU15
+
+[33mcommit a28acce881a25d9ce5c6f273cd682a3d2b64976d[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Wed Jul 22 19:18:33 2020 +0100
+
+    solve SLU15
+
+[33mcommit b41e4e1457b755d82c3e9cb00df7fd0e7ec964ad[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Tue Jul 21 20:17:42 2020 +0100
+
+    solve SLU14
+
+[33mcommit 6edcf34d879efbc1afaf0638e42979b4abe6cccb[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Tue Jul 21 00:55:48 2020 +0100
+
+    solve SLU13
+
+[33mcommit 45ab6cfe440d6ee1366772333033e995b0ea5899[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Mon Jul 20 23:04:30 2020 +0100
+
+    solve SLU12
+
+[33mcommit 1293dcc03ecc0ff6ede869fae389690bb57385c7[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 20:57:33 2020 +0100
+
+    fix SLU06 version
+
+[33mcommit 5533044cb6ca80ae4384c34b0a92e656989e42da[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 18:02:50 2020 +0100
+
+    solve SLU11
+
+[33mcommit 8e6c6b47b90552b8615deb5f2b994b72dc80dfae[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 15:36:45 2020 +0100
+
+    solve SLU10
+
+[33mcommit dba8101dba112307f056446d138d9ed0ec1f925f[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 13:33:16 2020 +0100
+
+    solve SLU09
+
+[33mcommit df767c0996d24df6bbb7fe607264a84d075f20ab[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 11:47:55 2020 +0100
+
+    solve SLU08
+
+[33mcommit 5221cf3a1aa3a5cd0c4f24d49e4839c32b8bd504[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 09:43:54 2020 +0100
+
+    fix SLU02 and SLU03 file names
+
+[33mcommit ee2684676efff7475febac65db447fad04e70bee[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sun Jul 19 09:40:09 2020 +0100
+
+    add admission test SLUs
+
+[33mcommit 5751f111dad50e53337c9ee9331338749388dc29[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sat Jul 18 18:01:30 2020 +0100
+
+    solve SLU07
+
+[33mcommit b90f3d9085871f67fdc4abb798cbf2a134c44ad8[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Sat Jul 18 12:16:36 2020 +0100
+
+    solve slu04 and slu05
+
+[33mcommit a8162c4ec3a155ec83aacc7001322ef0901d350a[m
+Author: felixbrunner <rubelrennfix@DESKTOP-M50MT0C.localdomain>
+Date:   Fri Jul 17 18:25:47 2020 +0100
+
+    Testing the sample notebook
+
+[33mcommit 8369dba6dc629d3bb36673c1815337c3266ee2ff[m
+Author: felixbrunner <39885913+felixbrunner@users.noreply.github.com>
+Date:   Fri Jul 17 17:34:34 2020 +0100
+
+    Initial commit
